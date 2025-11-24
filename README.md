@@ -1,5 +1,7 @@
 # Weapon Detection System
 
+** University Hackathon 2nd Place Project remake**
+
 A real-time weapon detection system built with Streamlit, YOLO, and Google Gemini AI. This application analyzes video files to detect weapons and provides AI-powered threat analysis.
 
 ## Features
@@ -106,4 +108,5 @@ Weapons-detected-systeam/
 - Built with [Streamlit](https://streamlit.io/)
 - Uses [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
 - AI analysis powered by [Google Gemini](https://deepmind.google/technologies/gemini/)
+
 
